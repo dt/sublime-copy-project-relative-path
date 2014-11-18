@@ -1,7 +1,7 @@
 [
 {
     "id" : "copy_relative_path",
-    "caption" : "Copy Relative Path",
-    "command" : "copy_relative_path"
+    "caption" : "Copy Project-Relative Path",
+    "command" : "copy_project_relative_path"
 }
 ]

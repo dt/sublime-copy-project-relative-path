@@ -1,5 +1,5 @@
 [
     {
-        "keys": ["ctrl+\\"], "command": "copy_relative_path"
+        "keys": ["ctrl+\\"], "command": "copy_project_relative_path"
     }
 ]
